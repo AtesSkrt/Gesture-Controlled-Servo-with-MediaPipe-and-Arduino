@@ -12,16 +12,26 @@ This project uses Python (with MediaPipe, OpenCV, TensorFlow/Keras) to detect ha
 
 Table of Contents
 
-Overview/n
+Overview
+
 Features
+
 Hardware Requirements
+
 Software Requirements
+
 Project Structure
+
 Setup
+
 Usage
+
 Demo
+
 Troubleshooting
+
 License
+
 
 Overview
 
