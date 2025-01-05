@@ -36,12 +36,14 @@ License
 Overview
 
 Goal: Control a servo motor via hand gestures detected from a webcam.
+
 Key Components:
-MediaPipe for hand-tracking and bounding box detection.
-TensorFlow / Keras for training and predicting custom gestures.
-OpenCV for camera input and real-time display.
-Arduino code that receives serial commands (angles) from Python and moves the servo.
-The project also includes a simple GUI for “teaching” new gestures and an optional “predict” mode to classify gestures in real time.
+
+-MediaPipe for hand-tracking and bounding box detection.
+-TensorFlow / Keras for training and predicting custom gestures.
+-OpenCV for camera input and real-time display.
+-Arduino code that receives serial commands (angles) from Python and moves the servo.
+-The project also includes a simple GUI for “teaching” new gestures and an optional “predict” mode to classify gestures in real time.
 
 Features
 
